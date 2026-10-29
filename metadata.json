@@ -1,0 +1,6 @@
+{
+  "name": "Client Status Email Writer",
+  "description": "Generate clean, safe, client-ready weekly status emails from messy meeting notes and ticket lists with zero data leaks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
